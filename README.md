@@ -7,6 +7,8 @@
 
 - ⚡ Fun fact **I ❤️ to role Dungeons and Dragons as a young Goliath Fighter!**
 
+[![wakatime](https://wakatime.com/badge/user/ac6157af-c95a-4199-abf8-62ec0021a63a.svg)](https://wakatime.com/@ac6157af-c95a-4199-abf8-62ec0021a63a)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/higueradev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="higueradev" height="30" width="40" /></a>
