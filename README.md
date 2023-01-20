@@ -1,4 +1,8 @@
-# About Me:
+# David Higuera 
+
+[![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)](https://platzi.com/@higueraDev)
+
+## About Me:
 - My last job was on a project at Palace Resorts
 - I’m currently learning Rust 
 - I ❤️ to role Dungeons and Dragons as a young Goliath Fighter!<br>   
