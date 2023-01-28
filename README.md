@@ -1,12 +1,8 @@
-# David Higuera 
 
-[![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)](https://platzi.com/@higueraDev)
-
-## About Me:
-- My last job was on a project at Palace Resorts
-- I’m currently learning Rust 
-- I ❤️ to role Dungeons and Dragons as a young Goliath Fighter!<br>   
-- I like playing guitar 🎸
+Hey there! I'm David Higuera. [![Platzi Master](https://img.shields.io/badge/Platzi%20Master-C9-7fc719.svg?logo=platzi)](https://platzi.com/@higueraDev)<br> <br>
+I enjoy colaborating on software development projects. <br><br>
+If you need extra hands on work, I could help with any task, being more proficient on Web Frontend based on my professional experience.<br><br>
+Or you can take a look on my [portfolio](https://higueradev.com) website to know more about my job or contact information.
 
 ![](https://github-readme-stats.vercel.app/api?username=higueraDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=higueraDev&theme=dark&hide_border=false)<br/>
