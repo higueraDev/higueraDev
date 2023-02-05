@@ -4,7 +4,6 @@ I enjoy colaborating on software development projects. <br><br>
 If you need extra hands on work, I could help with any task, being more proficient on Web Frontend based on my professional experience.<br><br>
 Or you can take a look on my [portfolio](https://higueradev.com) website to know more about my job or contact information.
 
-![](https://github-readme-stats.vercel.app/api?username=higueraDev&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=higueraDev&theme=dark&hide_border=false)<br/>
 
 
